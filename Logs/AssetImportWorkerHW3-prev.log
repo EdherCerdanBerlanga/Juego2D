@@ -1,0 +1,794 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Edher" at "2026-09-09T20:22:59.2222187Z"
+Built from '6000.6/respin/6000.6.0f1-fa21a270ab12' branch; Version is '6000.6.0f1 (f7f8ed4d1e24) revision 16251117'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) Professional' Language: 'es' Physical Memory: 7933 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-09-09T20:22:59Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.6.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorkerHW3
+-projectPath
+C:/Users/edher/Desktop/EdherUnity/Juego
+-logFile
+Logs/AssetImportWorkerHW3.log
+-srvPort
+62877
+-parentPid
+25220
+-analyticsCloudUserId
+4674243297487
+-analyticsCloudProjectId
+d0c1d6c6-fe5a-420c-bcfb-77216588f533
+-analyticsLocalProjectId
+86e64a3b7b3a6df4d94e08c53d07f26e
+-editorAnalyticsEnabled
+1
+-cbmEditorLicense
+f9d5598ab516e50d9d9608988479e51d24174db0
+-cbmMachineId
+41Jf7XdW8A0fz8lSBrvPAOfi/1M=
+-noDiagnosticSwitchPersistentStore
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+-force-d3d12
+-name
+AssetImport
+Successfully changed project path to: C:/Users/edher/Desktop/EdherUnity/Juego
+C:/Users/edher/Desktop/EdherUnity/Juego
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [12860]  Target information:
+
+Player connection [12860]  * "[IP] 192.168.18.52 [Port] 0 [Flags] 2 [Guid] 1841037628 [EditorId] 1841037628 [Version] 1048832 [Id] WindowsEditor(7,Edher) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [12860] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [12860] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: f955c78d2749ea761fcc61d7c0f58e01
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: true
+  - Service working directory: Library/DataStore/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 54.27 ms, found 5 plugins.
+Initialize engine version: 6000.6.0f1 (f7f8ed4d1e24)
+[EntityIdStore] init: VM path (explicit commit), pageSize=4096, blockCount=1048576, entitiesPerBlock=256, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/edher/Desktop/EdherUnity/Juego/Assets
+Forcing GfxDevice: Direct3D 12
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        Intel(R) UHD Graphics 730 (ID=0x4692)
+    Vendor:          Intel
+    VRAM:            3966 MB
+    App VRAM Budget: 3570 MB
+    Driver:          32.0.101.7088
+    Unified Memory Architecture
+    Cache Coherent UMA
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56700
+CodeReloadManager initialized
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+[Licensing::Module] Licensing is not yet initialized.
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.3'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-Edher"
+[Licensing::IpcConnector] LicenseClient-Edher channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Edher-6000.6.0" at "2026-09-09T20:23:02.1255145Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 23112, path: "C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              dc5235debed24922ab710c766a20689c
+  Correlation Id:          b5c872a38764f281d809590b8257b44e
+  External correlation Id: 7177353183906641429
+  Machine Id:              41Jf7XdW8A0fz8lSBrvPAOfi/1M=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Edher-6000.6.0" (connect: 0.00s, validation: 0.04s, handshake: 0.01s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Edher-6000.6.0-notifications" at "2026-09-09T20:23:02.1776309Z"
+[Licensing::Module] Licensing Background thread has ended after 2.96s
+[Licensing::Module] Licensing is initialized (took 0.80s).
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 4674243297487-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.0f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.809908 seconds.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.851 seconds
+Domain Reload Profiling: 2432ms
+	BeginReloadAssembly (227ms)
+		CreateAndSetChildDomain (3ms)
+	RebuildCommonClasses (15ms)
+	RebuildNativeTypeToScriptingClass (31ms)
+	initialDomainReloadingComplete (922ms)
+	LoadAllAssembliesAndSetupDomain (384ms)
+		LoadAssemblies (222ms)
+		TypeCache.Refresh (270ms)
+			TypeCache.ScanAssembly (249ms)
+		AnalyzeDomain (1ms)
+	FinalizeReload (853ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (4ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			BeforeProcessingInitializeOnLoad (111ms)
+			ProcessInitializeOnLoadAttributes (122ms)
+			ProcessInitializeOnLoadMethodAttributes (480ms)
+Initializing Unity extensions:
+[Licensing::Client] Successfully resolved entitlement details
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 4.56 ms, found 5 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  1.105 seconds
+Domain Reload Profiling: 2280ms
+	BeginReloadAssembly (206ms)
+		DisableScriptedObjects (10ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (8ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (67ms)
+	LoadAllAssembliesAndSetupDomain (879ms)
+		LoadAssemblies (516ms)
+		TypeCache.Refresh (208ms)
+			TypeCache.ScanAssembly (184ms)
+		AnalyzeDomain (107ms)
+			BuildScriptInfoCaches (100ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (1106ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			BeforeProcessingInitializeOnLoad (119ms)
+			ProcessInitializeOnLoadAttributes (347ms)
+			ProcessInitializeOnLoadMethodAttributes (352ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (3ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+AcceleratorClientConnectionCallback - disconnected - :0
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 2.56 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7510 unused Assets / (6.7 MB). Loaded Objects now: 8475.
+Memory consumption went from 366.4 MB to 359.7 MB.
+Total: 47.867700 ms (FindLiveObjects: 7.031400 ms CreateObjectMapping: 1.426200 ms MarkObjects: 35.149700 ms  DeleteObjects: 3.631200 ms)
+
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:23:24.3925639Z
+  Time since last request: 684198.31270649994258 seconds.
+  importAddress: GUID: d6cdd78aec35b4248bc697885a9b10c4 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/collectibles_coin_bronze1.png - Importer: PreviewImporter
+Importing 'GUID: d6cdd78aec35b4248bc697885a9b10c4 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/collectibles_coin_bronze1.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: d6cdd78aec35b4248bc697885a9b10c4' -> (Import Result ID: 'a6954cb81fe9a1542c96992dd96ecad9') in 0.162 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c5f943dcf842c2dd9294b26f3d119a00 DependenciesID=487cd4e7ab1c739eca951f36774f7da9 StaticDependenciesID=86eb1f7553a88eaabca17873278a30c0 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:23:28.0309113Z
+  Time since last request: 3.450351 seconds.
+  importAddress: GUID: feed3be675dde014aa6706bb06188207 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/collectibles_coin_silver.png - Importer: PreviewImporter
+Importing 'GUID: feed3be675dde014aa6706bb06188207 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/collectibles_coin_silver.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: feed3be675dde014aa6706bb06188207' -> (Import Result ID: 'a5aff5404d315d66b871784d02e9ff62') in 0.021 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5ba37f61fec096f13c7396c0c66c189c DependenciesID=34293ef44fc85f37f632d692a3418a9b StaticDependenciesID=ecd6bd78a4c027d9ea1b7c794775b47b 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:23:28.072522Z
+  Time since last request: 0.0013129 seconds.
+  importAddress: GUID: 8211050c5648e0c4fad30e11dd5ca042 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/collectibles_treasure_diamond.png - Importer: PreviewImporter
+Importing 'GUID: 8211050c5648e0c4fad30e11dd5ca042 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/collectibles_treasure_diamond.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 8211050c5648e0c4fad30e11dd5ca042' -> (Import Result ID: '94d1a97b4828345f474e374c720538a5') in 0.022 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=90aad87f8e1da65da13ec824404184a4 DependenciesID=b383b1aa30b5773d1eae16ec1c0d14c3 StaticDependenciesID=ccfecbb78027a89899f6464d0ebadbcb 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:23:28.1097977Z
+  Time since last request: 0.0016822 seconds.
+  importAddress: GUID: ecc60d7143b723a45b8a0587d4fc337a - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/collectibles_life2.png - Importer: PreviewImporter
+Importing 'GUID: ecc60d7143b723a45b8a0587d4fc337a - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/collectibles_life2.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: ecc60d7143b723a45b8a0587d4fc337a' -> (Import Result ID: '26863c8feaba20fa18a3f39ab79acf2a') in 0.031 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b3a749dc4b3eced08f20ad975c6d9f2a DependenciesID=9672e7c93c628983759e1f72c85a6ffa StaticDependenciesID=59401c46085691301b3a719389d09f9b 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:23:28.4079076Z
+  Time since last request: 0.2502358 seconds.
+  importAddress: GUID: 214e51a561527f44f9857589286b2d52 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/collectibles_treasure_ruby.png - Importer: PreviewImporter
+Importing 'GUID: 214e51a561527f44f9857589286b2d52 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/collectibles_treasure_ruby.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 214e51a561527f44f9857589286b2d52' -> (Import Result ID: 'a7d896d11e55fa9bcecbda07737ed196') in 0.024 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5b3d631af281c5ef9f2356566ffd029d DependenciesID=1144f0e48273dc96500329d0626e352a StaticDependenciesID=309b93302af6629d8d0e605648b23bef 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:23:28.4591469Z
+  Time since last request: 0.0097071 seconds.
+  importAddress: GUID: c9dcfd38c5742e74ca91abbf88a21802 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/object_barrel_light.png - Importer: PreviewImporter
+Importing 'GUID: c9dcfd38c5742e74ca91abbf88a21802 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/object_barrel_light.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: c9dcfd38c5742e74ca91abbf88a21802' -> (Import Result ID: '3b00d57ba12eb1e6cf011831b07fc608') in 0.048 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=df996dc096b9edac7a593ddbaf38b14c DependenciesID=e830d4bc7a4c2d6e69a1b1da6a121611 StaticDependenciesID=5a8f9934a8f54a09116fef23439381d0 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:23:28.525351Z
+  Time since last request: 0.0018596 seconds.
+  importAddress: GUID: cb28269828efbdf4691b9b45d5014370 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/trap_bomb.png - Importer: PreviewImporter
+Importing 'GUID: cb28269828efbdf4691b9b45d5014370 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/trap_bomb.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: cb28269828efbdf4691b9b45d5014370' -> (Import Result ID: '8094aa8d27ff10680848bca2a76dcf34') in 0.084 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=90c1c8f77719e331a2c12ec537b24df2 DependenciesID=0568c9282e25ae1ec50d467b9cf9528b StaticDependenciesID=3bf3409387a7b6c081ea4da42962f958 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:23:28.8681657Z
+  Time since last request: 0.2450167 seconds.
+  importAddress: GUID: ba64528c6d92d824fb3c80f7b2c1e9c8 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/vegetation_grass_rock_trunk.png - Importer: PreviewImporter
+Importing 'GUID: ba64528c6d92d824fb3c80f7b2c1e9c8 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/vegetation_grass_rock_trunk.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: ba64528c6d92d824fb3c80f7b2c1e9c8' -> (Import Result ID: '2b7215eabf34766e42579eaa91a882f5') in 0.033 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=80115f5ea5af96724ebfaf32c58a291b DependenciesID=e2fb3f246237f9984a4ea4efcec5bd16 StaticDependenciesID=70b9f7fb98a953f23e0c1c18949a21ed 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:23:28.9217768Z
+  Time since last request: 0.001791 seconds.
+  importAddress: GUID: f8fd87019ebedcc4d9d9c7b9a4186e1b - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/vfx_effect_consume.png - Importer: PreviewImporter
+Importing 'GUID: f8fd87019ebedcc4d9d9c7b9a4186e1b - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/vfx_effect_consume.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: f8fd87019ebedcc4d9d9c7b9a4186e1b' -> (Import Result ID: '9c868d078adc1b5bed064cc27a59739c') in 0.029 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ad0ca7a8cc9191f38c5ba53e76bc98fe DependenciesID=8519a789fb1386b7b26e2fcca3212868 StaticDependenciesID=f157cce32fdfae87df7dd7edcf2f8c35 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:23:28.9678733Z
+  Time since last request: 0.0017541 seconds.
+  importAddress: GUID: d7580bfb898f00340b1f508d398ec0ab - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/vfx_effect_diamond.png - Importer: PreviewImporter
+Importing 'GUID: d7580bfb898f00340b1f508d398ec0ab - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/vfx_effect_diamond.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: d7580bfb898f00340b1f508d398ec0ab' -> (Import Result ID: 'c0350765710c40ce7a26620172d8ae44') in 0.012 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=150bb2c6267e607b5bb8aab9b095f9f9 DependenciesID=8d61ae9618e9bb411c28471ecd1bbcdf StaticDependenciesID=41ed9bdf13f859ed645907112a29a00d 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 3.03 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (2.9 MB). Loaded Objects now: 8597.
+Memory consumption went from 361.4 MB to 358.5 MB.
+Total: 515.729300 ms (FindLiveObjects: 16.814600 ms CreateObjectMapping: 2.406100 ms MarkObjects: 491.393400 ms  DeleteObjects: 1.993800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:27:43.9112362Z
+  Time since last request: 254.91545629999999 seconds.
+  importAddress: GUID: f53c1c0b2d339c04f8df300572d75d62 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap.png - Importer: PreviewImporter
+Importing 'GUID: f53c1c0b2d339c04f8df300572d75d62 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: f53c1c0b2d339c04f8df300572d75d62' -> (Import Result ID: '18cca3e9ec8eea19c647d001a9591e13') in 0.447 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=10667d0338f30d00b9ddb836affa83a9 DependenciesID=b7fce96a2846f48c60ec930f99ca0464 StaticDependenciesID=5488fa27765a02cd8430f68f81329cdf 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 49
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:29:17.8560505Z
+  Time since last request: 93.4784667 seconds.
+  importAddress: GUID: f53c1c0b2d339c04f8df300572d75d62 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap.png - Importer: PreviewImporter
+Importing 'GUID: f53c1c0b2d339c04f8df300572d75d62 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap.png - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: f53c1c0b2d339c04f8df300572d75d62' -> (Import Result ID: '9e5b63a1952fa4f41bf3ad9478a779a3') in 0.121 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f6456b164ab9043a23af70e0befa50d2 DependenciesID=57d157cc6ce224b14ffc32b3422e8697 StaticDependenciesID=998a337a1450a07321aee7ccd5de6a8b 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 49
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:29:18.7223269Z
+  Time since last request: 0.7277827 seconds.
+  importAddress: GUID: f53c1c0b2d339c04f8df300572d75d62 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: f53c1c0b2d339c04f8df300572d75d62 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap.png - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: f53c1c0b2d339c04f8df300572d75d62' -> (Import Result ID: '4386d5892e2f7f64ff53659cd50377ba') in 0.629 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ab17a3b71b0ed691773248515b94cbb0 DependenciesID=61a5d7efede1291e1802637b689aa2b8 StaticDependenciesID=741987a99f033c562aa163ec2317eb22 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 49
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 7.37 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (2.9 MB). Loaded Objects now: 8600.
+Memory consumption went from 362.9 MB to 359.9 MB.
+Total: 516.461500 ms (FindLiveObjects: 12.857600 ms CreateObjectMapping: 2.679900 ms MarkObjects: 498.760100 ms  DeleteObjects: 1.404200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:49.3054237Z
+  Time since last request: 509.93134889999999 seconds.
+  importAddress: GUID: 2d4ac39c119fc114da1995121c42c633 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_33.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 2d4ac39c119fc114da1995121c42c633 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_33.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 2d4ac39c119fc114da1995121c42c633' -> (Import Result ID: '624440daa22f3f6dd1d4c5c5e55d1e1a') in 0.559 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cf2c33d38dea5ba6cc2e1b2fedd59b4e DependenciesID=9111e23f7723c98c0be3c29177a1201b StaticDependenciesID=78f40138c0e180b415c2e01d5bf951bd 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:49.9096292Z
+  Time since last request: 0.0023659 seconds.
+  importAddress: GUID: 93699be628600674cacfbd9f703ded74 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_6.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 93699be628600674cacfbd9f703ded74 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_6.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 93699be628600674cacfbd9f703ded74' -> (Import Result ID: 'da16932e1651a140c67c3daf5d238732') in 0.018 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1f7487efccd28075527a62ed5385dd4f DependenciesID=d0453aa1f00d5bd66a029fc0bad67ecc StaticDependenciesID=900ccfe86e6606bfe1609e6e80aef2f9 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:49.9536179Z
+  Time since last request: 0.0022746 seconds.
+  importAddress: GUID: 44409c3f0b9ba51429d39b7dbfd0e032 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_42.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 44409c3f0b9ba51429d39b7dbfd0e032 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_42.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 44409c3f0b9ba51429d39b7dbfd0e032' -> (Import Result ID: 'da03142bba017849a749d562f587301b') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7e05d616cf7ece5d62b8f78016789f42 DependenciesID=4576a138df425bc10ba7318c4029c79f StaticDependenciesID=154009954271508ac90e51b1d74d8125 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:49.9813412Z
+  Time since last request: 0.0018974 seconds.
+  importAddress: GUID: 6c92fffcbc3cf11479605b6cd070268c - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_8.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 6c92fffcbc3cf11479605b6cd070268c - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_8.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 6c92fffcbc3cf11479605b6cd070268c' -> (Import Result ID: 'fc8cfb9f9174695566dc7c63506275c5') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=48de08419012197423db537f586b170f DependenciesID=aea547b0c533101ea52c0ef5b655a617 StaticDependenciesID=036d46232984b0ec000bb32e0ff08827 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:50.0173083Z
+  Time since last request: 0.0015451 seconds.
+  importAddress: GUID: f9e199172ab268c4a91ed91a75bafe27 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_3.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: f9e199172ab268c4a91ed91a75bafe27 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_3.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: f9e199172ab268c4a91ed91a75bafe27' -> (Import Result ID: 'cafbeff6110ae8fde77c7de2da0c7b96') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4c01b7673d78e8e3067cebb43eaaa151 DependenciesID=1328cd42d584a99ab977003cefc40537 StaticDependenciesID=628a1ec3d3e7d3e57398cd6771def043 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:50.0472893Z
+  Time since last request: 0.002177 seconds.
+  importAddress: GUID: 5587a893f9615254e81c4ad88f6f4537 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_4.asset - Importer: PreviewImporter
+Importing 'GUID: 5587a893f9615254e81c4ad88f6f4537 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_4.asset - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 5587a893f9615254e81c4ad88f6f4537' -> (Import Result ID: '62afed916275e94f7524ae5f4e6154b0') in 0.467 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9e6a9287fe15d63b0beb0a1a9eadebab DependenciesID=a25e740eafae933ebd5b28308b6aa365 StaticDependenciesID=09fe631b98172d8d260c7b3a34c14249 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:50.5456658Z
+  Time since last request: 0.0042033 seconds.
+  importAddress: GUID: 2661eaf5ab25eca42a0048c8ff4882bb - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_16.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 2661eaf5ab25eca42a0048c8ff4882bb - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_16.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 2661eaf5ab25eca42a0048c8ff4882bb' -> (Import Result ID: '4837c8a2ecd8bcab4a35b76b18a889a0') in 0.013 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d829b8fbb4d9719f7c8f309dfc2af4a7 DependenciesID=920e2edbefc77d6e07927bf0c996a685 StaticDependenciesID=2559ca06591259e020d9ad7cbe35ca90 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:50.5770719Z
+  Time since last request: 0.0013802 seconds.
+  importAddress: GUID: 0a54dc890bf96dd4cbe91866608a6eb9 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_19.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 0a54dc890bf96dd4cbe91866608a6eb9 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_19.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 0a54dc890bf96dd4cbe91866608a6eb9' -> (Import Result ID: 'a070e446ec3d21d1133e81fd06e0389a') in 0.051 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e388b24c4d835509baef448f9472439a DependenciesID=244138f1fc8f890b6ed882b77eb74fbd StaticDependenciesID=3e702a61ae934608958c811f790573e1 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:50.646008Z
+  Time since last request: 0.0022999 seconds.
+  importAddress: GUID: ac81927a226416d469c08a380db434fb - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_30.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: ac81927a226416d469c08a380db434fb - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_30.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: ac81927a226416d469c08a380db434fb' -> (Import Result ID: 'deca07cc0e6312e9146f84a7e2a24b2b') in 0.016 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=99d62665f4b3097cbe60694f7c151448 DependenciesID=5c2af88bde3921764be51de016250b5b StaticDependenciesID=03ad922bf1071fc55014f5e52aac2403 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:50.690855Z
+  Time since last request: 0.0051405 seconds.
+  importAddress: GUID: c6eda903d50094f47a5308896aac0b6e - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_23.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: c6eda903d50094f47a5308896aac0b6e - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_23.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: c6eda903d50094f47a5308896aac0b6e' -> (Import Result ID: 'd5fa7d47012514eee17550141a9150e4') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=93cdb23241b70f30e21bf3ff4fd0abe4 DependenciesID=5107f58bf19a1b8f7cfaf030a5fbde74 StaticDependenciesID=592126858c7382d9f3f45cc5b522cb02 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:50.724821Z
+  Time since last request: 0.0016678 seconds.
+  importAddress: GUID: e2e24766e8a025945b1359b874de6454 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_21.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: e2e24766e8a025945b1359b874de6454 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_21.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: e2e24766e8a025945b1359b874de6454' -> (Import Result ID: '6dac69486c93dd4980e36aa5ab395ece') in 0.028 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=453413a7bce3938e2a5102b0ac0a4a46 DependenciesID=a16ac0da92e3d5ebcc21921d26318805 StaticDependenciesID=7b153dd3c0a4c763f77f2e9674a8463d 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:50.776713Z
+  Time since last request: 0.001803 seconds.
+  importAddress: GUID: 61d36299fca4d8d4a930250dd93949b1 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_44.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 61d36299fca4d8d4a930250dd93949b1 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_44.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 61d36299fca4d8d4a930250dd93949b1' -> (Import Result ID: '4dfe9b12aebca7c5391fbfd8a5f4ad20') in 0.016 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c387ff7bd375305d088dedb86cd2355a DependenciesID=d8a975e667d71ad9744dff48061d7bbf StaticDependenciesID=70d6b0d1ffd28e4fc9b9e76779ccde2e 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:50.8280376Z
+  Time since last request: 0.0012351 seconds.
+  importAddress: GUID: 1d8765f2b18804540a63017782c6ee34 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_41.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 1d8765f2b18804540a63017782c6ee34 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_41.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 1d8765f2b18804540a63017782c6ee34' -> (Import Result ID: 'c87375fc0af68ee46171cd7ba0f01cf9') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=534fec3c80b4f898d13ead57f27948c5 DependenciesID=cbf749ac63d8b92b0b63ff03f0b42eec StaticDependenciesID=c8e6d48c8e5934b7e125ff6b912a5a3a 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:50.8587216Z
+  Time since last request: 0.0017658 seconds.
+  importAddress: GUID: c02b2bb2ee75f534ea9dbbf3e51d4b08 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_10.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: c02b2bb2ee75f534ea9dbbf3e51d4b08 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_10.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: c02b2bb2ee75f534ea9dbbf3e51d4b08' -> (Import Result ID: '80a89a0f99d72a25f6d9e3f22b02371b') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=090b76c8cdfd149d7033790d0a9a4ac9 DependenciesID=36e120560866d4f73cd5f2de2bf22a59 StaticDependenciesID=6ebe2b4cdd4b9b01dee697bbb886e9f1 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:50.8910728Z
+  Time since last request: 0.0017111 seconds.
+  importAddress: GUID: 8f4a4174ccea8fc43af2e6c0b42c374a - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_13.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 8f4a4174ccea8fc43af2e6c0b42c374a - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_13.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 8f4a4174ccea8fc43af2e6c0b42c374a' -> (Import Result ID: '446de487ff913999ea744377580e7894') in 0.040 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=109d8b587703eb7b0d5766de12db3ad7 DependenciesID=78a08c48facbe57a4df9f203de0dc007 StaticDependenciesID=28f366fe24da1d4d115ba4a215448456 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:51.0105102Z
+  Time since last request: 0.0014636 seconds.
+  importAddress: GUID: 5d4cbf007eecab54da9f7d5679bc02ed - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_22.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 5d4cbf007eecab54da9f7d5679bc02ed - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_22.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 5d4cbf007eecab54da9f7d5679bc02ed' -> (Import Result ID: 'b57d67a8946729ce23b85aee419d7933') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0c7f21f33ca6f08ee5b8454a7c976a89 DependenciesID=b4413f121460dae98a3dc42c373371bb StaticDependenciesID=1ded3dd547e8b6dd6de016976d9ff463 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:51.0491413Z
+  Time since last request: 0.001483 seconds.
+  importAddress: GUID: 141ea2d3c4f50114cb01a18c35612f01 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_36.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 141ea2d3c4f50114cb01a18c35612f01 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_36.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 141ea2d3c4f50114cb01a18c35612f01' -> (Import Result ID: '2ccdc34d66c20319af3af38c6145b47e') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8d3841bf9e51aec9a32ee9324871960e DependenciesID=9e307f9ba8c54053bc2dd6c337e771e6 StaticDependenciesID=0e300ec5e93a79590fa0abdee6c58b2e 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:51.0771738Z
+  Time since last request: 0.0018296 seconds.
+  importAddress: GUID: dbff6225d06a143499f57548046c63e7 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_46.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: dbff6225d06a143499f57548046c63e7 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_46.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: dbff6225d06a143499f57548046c63e7' -> (Import Result ID: '3ce961f57c03efd3b6ffcc4b69f71a84') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7af41c0753cd458a8783678ff854a62d DependenciesID=4cba493e76c4a4d9705460c8915e15e0 StaticDependenciesID=cf91a626a956fe10b97d8010487ff199 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:51.1107764Z
+  Time since last request: 0.0015561 seconds.
+  importAddress: GUID: 96461f5ae6aa5d44b90dc4650bd6ba7b - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_2.asset - Importer: PreviewImporter
+Importing 'GUID: 96461f5ae6aa5d44b90dc4650bd6ba7b - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_2.asset - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 96461f5ae6aa5d44b90dc4650bd6ba7b' -> (Import Result ID: 'f3e45138264bc643218708af104686b5') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=11b6f7cb92a6510625765a3851dbd65b DependenciesID=fdb59412c36d24a579c0504ef91a1729 StaticDependenciesID=30b1c6d487332cc3cb18eab34e3da76b 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:51.1487792Z
+  Time since last request: 0.0022663 seconds.
+  importAddress: GUID: 0d6d259599cbcf2418b5fc4381aa8ba1 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_32.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 0d6d259599cbcf2418b5fc4381aa8ba1 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_32.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 0d6d259599cbcf2418b5fc4381aa8ba1' -> (Import Result ID: '7a2058823436797dc96a8b1c6d69cd5c') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=787384be250d539406d4a36be74eb0a4 DependenciesID=303d3d7cdb6a387883276644f42ff4d3 StaticDependenciesID=35c39085ba7ed12faf8499b3dcd89bfa 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:51.1724145Z
+  Time since last request: 0.0004682 seconds.
+  importAddress: GUID: c215a05e2cb413e458edf3d17cdf5098 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_1.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: c215a05e2cb413e458edf3d17cdf5098 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_1.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: c215a05e2cb413e458edf3d17cdf5098' -> (Import Result ID: '91a29a7d3e7344b3835eaca0b31cf8c9') in 0.013 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=52f2ee4663eede0ddce2d61e2800d0a9 DependenciesID=0ae0fa9f4bc6f732e92f5c41b35722ab StaticDependenciesID=6ab933aacaffa4fdaa15d71cef4438e5 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:51.2096805Z
+  Time since last request: 0.0009812 seconds.
+  importAddress: GUID: 27878d2ee50f72b4c93e2506e59eea54 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_37.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 27878d2ee50f72b4c93e2506e59eea54 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_37.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 27878d2ee50f72b4c93e2506e59eea54' -> (Import Result ID: 'aefb12763020339cca30ddeb141997c0') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=83c522a56e451c31a35ac350187d2c86 DependenciesID=4a04719dd0a6051b7a81ca4ac14ce442 StaticDependenciesID=7d14e85d6e2637a29de55a47f488c97e 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:51.2499329Z
+  Time since last request: 0.0022667 seconds.
+  importAddress: GUID: f6b70332bc0d95b4d9a99719749318ef - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_18.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: f6b70332bc0d95b4d9a99719749318ef - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_18.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: f6b70332bc0d95b4d9a99719749318ef' -> (Import Result ID: '7b23961925c6072bd072c25a5f873c36') in 0.012 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=32d4109bb8621babdc39b91c35fc6ca1 DependenciesID=9e7fa43695b0064735fa8c9a0833a871 StaticDependenciesID=738b55fc5ab1c1cb2d9f9d284db247fe 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:51.2873104Z
+  Time since last request: 0.0017473 seconds.
+  importAddress: GUID: 13f3ddc75fca4b2498a992277d67319b - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_0.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 13f3ddc75fca4b2498a992277d67319b - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_0.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 13f3ddc75fca4b2498a992277d67319b' -> (Import Result ID: '0c74579a2d8c838237f4b7f1096fe190') in 0.013 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0a9af179a76a0349757fa2d7fddcffd1 DependenciesID=5dd5986c9cab4d6cfc6d04c21c9f332f StaticDependenciesID=5d530acd08493e5bfb4c7454312aeaf6 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:51.3241512Z
+  Time since last request: 0.0008019 seconds.
+  importAddress: GUID: d0c5db377095e844497c1bbeae2f9cab - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_7.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: d0c5db377095e844497c1bbeae2f9cab - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_7.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: d0c5db377095e844497c1bbeae2f9cab' -> (Import Result ID: 'f3396291f59ddb2228ba7d8f0c00dda0') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e2702f759e9a69756c231aec38ffc62c DependenciesID=244f2b2683e6c4969d96456b253e8d8f StaticDependenciesID=e751876be2dd80a8ef8c2d133a757f18 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:51.3521108Z
+  Time since last request: 0.0016999 seconds.
+  importAddress: GUID: 13f3ddc75fca4b2498a992277d67319b - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_0.asset - Importer: PreviewImporter
+Importing 'GUID: 13f3ddc75fca4b2498a992277d67319b - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_0.asset - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 13f3ddc75fca4b2498a992277d67319b' -> (Import Result ID: '99073dbe0803c87e66001c6da8c8d45d') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=16b451ed810277109e7165ed1561af44 DependenciesID=32af3c0950536a1cc6887661fbc21ecd StaticDependenciesID=4107e8b4d27b2126c0c3f0669d87429b 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:51.3909817Z
+  Time since last request: 0.0051377 seconds.
+  importAddress: GUID: 22bc0cee8a150d64ebdb3dffa3aeadff - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_12.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 22bc0cee8a150d64ebdb3dffa3aeadff - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_12.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 22bc0cee8a150d64ebdb3dffa3aeadff' -> (Import Result ID: 'a8250bdfc9e80de78e1bc0e46686b460') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=eba53b3422d094e0ed4b39ed9541042d DependenciesID=e54c80d2c1060bcabebf8cef172f8985 StaticDependenciesID=c77d3a817dd3545fe7a640cd3a3c2237 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:51.422331Z
+  Time since last request: 0.0031757 seconds.
+  importAddress: GUID: 96461f5ae6aa5d44b90dc4650bd6ba7b - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_2.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 96461f5ae6aa5d44b90dc4650bd6ba7b - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_2.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 96461f5ae6aa5d44b90dc4650bd6ba7b' -> (Import Result ID: '1fada87127c117149a0fa6029ce5f93f') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=79a849c8f9aa0c4cb9267805a7b35dce DependenciesID=2f9e28fe3a7dea02460f3035ee6ce1b9 StaticDependenciesID=ec3e63c985e82dac92274f87d11c50cc 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:51.4476114Z
+  Time since last request: 0.0016178 seconds.
+  importAddress: GUID: 51a8a2d04a535fe489c0d01aef93c2a1 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_39.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 51a8a2d04a535fe489c0d01aef93c2a1 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_39.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 51a8a2d04a535fe489c0d01aef93c2a1' -> (Import Result ID: 'e8dd5ceb6adec7c3c7586c8e5529ce65') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2ac6d1fe827abc43355035464954b286 DependenciesID=0c45ea575e27ef9d9db8363963a588f8 StaticDependenciesID=36efcc23ea18ad958b8879dba4fc8b17 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:51.4763729Z
+  Time since last request: 0.0014499 seconds.
+  importAddress: GUID: 7311ed61a232b864d80cb503189e9188 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_20.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 7311ed61a232b864d80cb503189e9188 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_20.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 7311ed61a232b864d80cb503189e9188' -> (Import Result ID: 'b54a8dae4ef3c3fb8e3e35ab92c68e8c') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=962b2f1c751d24355604f5662d8072c8 DependenciesID=d023e7544b3e353cfc35ba32b0e28f0e StaticDependenciesID=3c47122874e9706b2dc582b54ccaf097 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:51.5021863Z
+  Time since last request: 0.0014111 seconds.
+  importAddress: GUID: 28fa300781913774aa77d55dee170ebe - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_38.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 28fa300781913774aa77d55dee170ebe - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/tilemap_38.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 28fa300781913774aa77d55dee170ebe' -> (Import Result ID: 'ba06efffb3307eae65eb7e511cafa58b') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=32ce190d51247c6dac3fed9884773a66 DependenciesID=5bb0489299fa3ce8e291c1720bd71c1a StaticDependenciesID=8692b66fcf40d1d7c284d34bc15048d5 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T20:37:51.5302149Z
+  Time since last request: 0.0015896 seconds.
+  importAddress: GUID: 3c95fbfb47212aa4ab0b0e15e599c4d7 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/New Tile Palette.prefab - Importer: PreviewImporter
+Importing 'GUID: 3c95fbfb47212aa4ab0b0e15e599c4d7 - Path: Assets/Sprites/Berie's_Adventure_Seaside_Asset_Pack_Free/Spritesheet/New Tile Palette.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 3c95fbfb47212aa4ab0b0e15e599c4d7' -> (Import Result ID: '3465c14fcf0b359ecafeba774afd365c') in 1.177 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3935b3628d213334ce044f5778a75a35 DependenciesID=435f075584565e2295aa39a627e64acd StaticDependenciesID=65fd916f1fe6f7a027ea134e4382636a 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 105
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 8.31 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (2.9 MB). Loaded Objects now: 8702.
+Memory consumption went from 371.6 MB to 368.7 MB.
+Total: 557.549100 ms (FindLiveObjects: 17.111600 ms CreateObjectMapping: 4.185900 ms MarkObjects: 532.907500 ms  DeleteObjects: 1.047400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T21:31:55.6022778Z
+  Time since last request: 3242.87484780000023 seconds.
+  importAddress: GUID: c88efbaeadca9434a85b389de5d52472 - Path: Assets/New Physics Material 2D.physicsMaterial2D - Importer: PreviewImporter
+Importing 'GUID: c88efbaeadca9434a85b389de5d52472 - Path: Assets/New Physics Material 2D.physicsMaterial2D - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: c88efbaeadca9434a85b389de5d52472' -> (Import Result ID: '3afc4463591f1800d3bd662ec1b54988') in 0.127 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f3f0442191740e0e1441fcb5f0a71f30 DependenciesID=e571f7aba50b92d29b52ab7af8d14967 StaticDependenciesID=b393d9e90a8aaf705628dc9e6679686f 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 5.34 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (2.9 MB). Loaded Objects now: 8702.
+Memory consumption went from 371.7 MB to 368.7 MB.
+Total: 452.306000 ms (FindLiveObjects: 13.947100 ms CreateObjectMapping: 4.203000 ms MarkObjects: 431.366000 ms  DeleteObjects: 1.723000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T21:59:11.0086206Z
+  Time since last request: 1635.25950179999995 seconds.
+  importAddress: GUID: f52a892027b840441ae1f7b2a479e1b9 - Path: Assets/Scripts - Importer: PreviewImporter
+Importing 'GUID: f52a892027b840441ae1f7b2a479e1b9 - Path: Assets/Scripts - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: f52a892027b840441ae1f7b2a479e1b9' -> (Import Result ID: '6db914736c6949a8526c8f90781957ff') in 0.017 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f4867e27227c67a68b32b7abd05fe97c DependenciesID=1398e63b0ea7e683201d32a99f3ed692 StaticDependenciesID=4cd5080cbc60e795b4a58e560cc8a7be 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7494 unused Assets / (8.5 MB). Loaded Objects now: 8703.
+Memory consumption went from 378.8 MB to 370.3 MB.
+Total: 16.564300 ms (FindLiveObjects: 1.347000 ms CreateObjectMapping: 0.543900 ms MarkObjects: 11.012900 ms  DeleteObjects: 3.346100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-09T21:59:51.1617446Z
+  Time since last request: 40.1137912 seconds.
+  importAddress: GUID: cb70efe8c13454d4fa2bd8e573862e60 - Path: Assets/Scripts/Player.cs - Importer: PreviewImporter
+Importing 'GUID: cb70efe8c13454d4fa2bd8e573862e60 - Path: Assets/Scripts/Player.cs - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: cb70efe8c13454d4fa2bd8e573862e60' -> (Import Result ID: 'd9e8998a3ac9983aa43cfd0c33ca240b') in 0.015 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=19cba8506bc02e53ec8132f6f57b9d69 DependenciesID=996e3a2489f744c23018942828dd94dc StaticDependenciesID=8483c56f93af96868385a437a0c7d096 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 3.55 ms, found 5 plugins.
+[Licensing::Client] Successfully resolved entitlement details
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  1.095 seconds
+Domain Reload Profiling: 5251ms
+	BeginReloadAssembly (1798ms)
+		ExecutionOrderSort (8ms)
+		DisableScriptedObjects (449ms)
+		ReleaseScriptingObjects (3ms)
+		CreateAndSetChildDomain (602ms)
+	RebuildCommonClasses (12ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (153ms)
+	LoadAllAssembliesAndSetupDomain (2169ms)
+		LoadAssemblies (1219ms)
+		TypeCache.Refresh (447ms)
+			TypeCache.ScanAssembly (329ms)
+		AnalyzeDomain (457ms)
+			BuildScriptInfoCaches (434ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1096ms)
+		SetupLoadedEditorAssemblies (0ms)
+			LogAssemblyErrors (4ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			BeforeProcessingInitializeOnLoad (166ms)
+			ProcessInitializeOnLoadAttributes (417ms)
+			ProcessInitializeOnLoadMethodAttributes (115ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (3ms)
+		AwakeInstancesAfterBackupRestoration (27ms)
+Refreshing native plugins compatible for Editor in 2.83 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7509 unused Assets / (9.7 MB). Loaded Objects now: 8632.
+Memory consumption went from 373.7 MB to 364.0 MB.
+Total: 14.618700 ms (FindLiveObjects: 1.919100 ms CreateObjectMapping: 0.509600 ms MarkObjects: 7.714900 ms  DeleteObjects: 4.088200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+Refreshing native plugins compatible for Editor in 9.64 ms, found 5 plugins.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (2.9 MB). Loaded Objects now: 8632.
+Memory consumption went from 370.4 MB to 367.4 MB.
+Total: 642.011000 ms (FindLiveObjects: 13.133000 ms CreateObjectMapping: 3.953800 ms MarkObjects: 622.045800 ms  DeleteObjects: 1.175600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Editor is closing down
+AcceleratorClientConnectionCallback - disconnected - :0
+AssetImportWorker is now disconnected from the server
+Process exiting
+[ExitDontLaunchBugReporter] Exiting without the bug reporter. Application will exit with return code 0
