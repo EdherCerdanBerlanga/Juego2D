@@ -1,141 +1,188 @@
-[2026-09-09T22:09:43.610Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.6.0f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 8772 --ipc-path Unity-Upm-8772 -l 2 --log-file C:\\Users\\edher\\Desktop\\EdherUnity\\Juego/Logs/upm.log
-[2026-09-09T22:09:43.638Z][INFO] IPC server started (IPC path=Unity-Upm-8772).
-[2026-09-09T22:09:43.638Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-8772.
-[2026-09-09T22:10:11.298Z][INFO] project:list-packages <-- Request received
+[2026-09-11T13:53:35.455Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.6.0f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 2488 --ipc-path Unity-Upm-2488 -l 2 --log-file C:\\Users\\edher\\Desktop\\EdherUnity\\Juego/Logs/upm.log
+[2026-09-11T13:53:35.513Z][INFO] IPC server started (IPC path=Unity-Upm-2488).
+[2026-09-11T13:53:35.514Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-2488.
+[2026-09-11T13:53:49.962Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:10:11.556Z][INFO] project:list-packages --> 200 (258 ms)
-[2026-09-09T22:10:11.693Z][INFO] config:project:get-registries <-- Request received
+[2026-09-11T13:53:50.710Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-09-09T22:10:11.701Z][INFO] config:project:get-registries --> 200 (8 ms)
-[2026-09-09T22:10:11.718Z][INFO] project:list-packages <-- Request received
+[2026-09-11T13:53:50.712Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:10:11.928Z][INFO] project:list-packages --> 200 (210 ms)
-[2026-09-09T22:10:46.818Z][INFO] project:list-packages <-- Request received
+[2026-09-11T13:53:50.887Z][INFO] config:project:get-registries --> 200 (177 ms)
+[2026-09-11T13:53:51.312Z][INFO] project:list-packages --> 200 (1351 ms)
+[2026-09-11T13:53:51.470Z][INFO] project:list-packages --> 200 (758 ms)
+[2026-09-11T13:54:03.716Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:10:46.913Z][INFO] project:list-packages <-- Request received
+[2026-09-11T13:54:03.787Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:10:47.221Z][INFO] project:list-packages <-- Request received
+[2026-09-11T13:54:04.045Z][INFO] project:list-packages --> 200 (330 ms)
+[2026-09-11T13:54:04.093Z][INFO] project:list-packages --> 200 (306 ms)
+[2026-09-11T13:54:04.094Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:10:47.456Z][INFO] config:project:get-registries <-- Request received
+[2026-09-11T13:54:04.277Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-09-09T22:10:47.498Z][INFO] config:project:get-registries --> 200 (42 ms)
-[2026-09-09T22:10:47.631Z][INFO] project:list-packages --> 200 (718 ms)
-[2026-09-09T22:10:47.633Z][INFO] project:list-packages --> 200 (825 ms)
-[2026-09-09T22:10:47.767Z][INFO] project:list-packages --> 200 (546 ms)
-[2026-09-09T22:11:10.514Z][INFO] project:list-packages <-- Request received
+[2026-09-11T13:54:04.290Z][INFO] project:list-packages --> 200 (196 ms)
+[2026-09-11T13:54:04.291Z][INFO] config:project:get-registries --> 200 (14 ms)
+[2026-09-11T13:54:18.846Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:11:11.123Z][INFO] project:list-packages --> 200 (623 ms)
-[2026-09-09T22:11:16.416Z][INFO] project:list-packages <-- Request received
+[2026-09-11T13:54:19.059Z][INFO] project:list-packages --> 200 (212 ms)
+[2026-09-11T13:54:23.368Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:11:16.461Z][INFO] project:list-packages <-- Request received
+[2026-09-11T13:54:23.412Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:11:16.687Z][INFO] project:list-packages --> 200 (270 ms)
-[2026-09-09T22:11:16.730Z][INFO] project:list-packages --> 200 (269 ms)
-[2026-09-09T22:11:16.778Z][INFO] project:list-packages <-- Request received
+[2026-09-11T13:54:23.675Z][INFO] project:list-packages --> 200 (307 ms)
+[2026-09-11T13:54:23.723Z][INFO] project:list-packages --> 200 (311 ms)
+[2026-09-11T13:54:23.747Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:11:16.947Z][INFO] config:project:get-registries <-- Request received
+[2026-09-11T13:54:23.897Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-09-09T22:11:16.953Z][INFO] project:list-packages --> 200 (175 ms)
-[2026-09-09T22:11:16.954Z][INFO] config:project:get-registries --> 200 (7 ms)
-[2026-09-09T22:11:23.743Z][INFO] project:list-packages <-- Request received
+[2026-09-11T13:54:23.936Z][INFO] project:list-packages --> 200 (189 ms)
+[2026-09-11T13:54:23.936Z][INFO] config:project:get-registries --> 200 (39 ms)
+[2026-09-11T13:54:30.083Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:11:23.756Z][INFO] project:list-packages <-- Request received
+[2026-09-11T13:54:30.097Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:11:23.978Z][INFO] project:list-packages --> 200 (222 ms)
-[2026-09-09T22:11:26.461Z][INFO] project:list-packages --> 200 (2719 ms)
-[2026-09-09T22:18:20.979Z][INFO] project:list-packages <-- Request received
+[2026-09-11T13:54:30.321Z][INFO] project:list-packages --> 200 (224 ms)
+[2026-09-11T13:54:30.686Z][INFO] Downloading package [com.unity.package-manager.metadata-6000.6@0.0.72] from registry 'https://packages.unity.com'
+[2026-09-11T13:54:31.748Z][INFO] Finished downloading package [com.unity.package-manager.metadata-6000.6@0.0.72] from registry 'https://packages.unity.com' (size: 11.4 kB, time: 1s)
+[2026-09-11T13:54:33.930Z][INFO] project:list-packages --> 200 (3848 ms)
+[2026-09-11T15:52:28.775Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:18:21.368Z][INFO] project:list-packages <-- Request received
+[2026-09-11T15:52:28.995Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:18:21.501Z][INFO] project:list-packages --> 200 (536 ms)
-[2026-09-09T22:18:21.539Z][INFO] config:project:get-registries <-- Request received
+[2026-09-11T15:52:31.778Z][INFO] project:list-packages --> 200 (2783 ms)
+[2026-09-11T15:52:31.779Z][INFO] project:list-packages --> 200 (3015 ms)
+[2026-09-11T15:52:31.885Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:18:21.543Z][INFO] config:project:get-registries --> 200 (4 ms)
-[2026-09-09T22:18:21.643Z][INFO] project:list-packages --> 200 (275 ms)
-[2026-09-09T22:21:32.213Z][INFO] project:list-packages <-- Request received
+[2026-09-11T15:52:32.028Z][INFO] project:list-packages --> 200 (143 ms)
+[2026-09-11T15:52:32.668Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:21:32.610Z][INFO] project:list-packages <-- Request received
+[2026-09-11T15:52:32.809Z][INFO] project:list-packages --> 200 (141 ms)
+[2026-09-11T18:52:25.664Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:21:32.780Z][INFO] config:project:get-registries <-- Request received
+[2026-09-11T18:52:26.012Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:21:32.793Z][INFO] config:project:get-registries --> 200 (14 ms)
-[2026-09-09T22:21:32.888Z][INFO] project:list-packages --> 200 (705 ms)
-[2026-09-09T22:21:32.937Z][INFO] project:list-packages --> 200 (327 ms)
-[2026-09-09T22:58:19.284Z][INFO] project:list-packages <-- Request received
+[2026-09-11T18:52:26.445Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:26.736Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:26.767Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:26.773Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:26.804Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:26.827Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:26.855Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:26.891Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:26.900Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:26.906Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:26.922Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:26.926Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:26.936Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:27.087Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:27.116Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:27.200Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:27.223Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:27.380Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:27.426Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:27.475Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:27.490Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:27.527Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:27.549Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:27.611Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:27.806Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:27.835Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:27.853Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:27.882Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:27.903Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:28.031Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:28.046Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:28.064Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:28.072Z][ERROR] Error: Cannot connect to 'packages.unity.com' (error code: ENOTFOUND). Check your internet connection and verify that your environment firewall policies allow connection to this host name. If your system is behind a proxy, verify your proxy environment variables (HTTP_PROXY and HTTPS_PROXY) are properly set.
+[2026-09-11T18:52:30.351Z][INFO] project:list-packages --> 200 (4339 ms)
+[2026-09-11T18:52:30.353Z][INFO] project:list-packages --> 200 (4713 ms)
+[2026-09-11T18:52:30.745Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:58:19.592Z][INFO] project:list-packages <-- Request received
+[2026-09-11T18:52:31.278Z][INFO] project:list-packages --> 200 (533 ms)
+[2026-09-11T18:52:31.353Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:58:19.740Z][INFO] config:project:get-registries <-- Request received
+[2026-09-11T18:52:31.535Z][INFO] project:list-packages --> 200 (182 ms)
+[2026-09-11T18:52:34.777Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T22:58:19.766Z][INFO] project:list-packages --> 200 (497 ms)
-[2026-09-09T22:58:19.768Z][INFO] config:project:get-registries --> 200 (28 ms)
-[2026-09-09T22:58:19.890Z][INFO] project:list-packages --> 200 (298 ms)
-[2026-09-09T23:14:26.232Z][INFO] project:list-packages <-- Request received
+[2026-09-11T18:52:34.956Z][INFO] project:list-packages --> 200 (179 ms)
+[2026-09-11T18:52:35.478Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T23:14:26.614Z][INFO] project:list-packages <-- Request received
+[2026-09-11T18:52:35.607Z][INFO] project:list-packages --> 200 (129 ms)
+[2026-09-11T19:35:16.488Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T23:14:26.725Z][INFO] config:project:get-registries <-- Request received
+[2026-09-11T19:35:16.847Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T23:14:26.748Z][INFO] config:project:get-registries --> 200 (23 ms)
-[2026-09-09T23:14:27.186Z][INFO] project:list-packages --> 200 (573 ms)
-[2026-09-09T23:14:27.187Z][INFO] project:list-packages --> 200 (986 ms)
-[2026-09-09T23:24:36.241Z][INFO] project:list-packages <-- Request received
+[2026-09-11T19:35:16.932Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-09-09T23:24:36.653Z][INFO] project:list-packages <-- Request received
+[2026-09-11T19:35:16.961Z][INFO] project:list-packages --> 200 (482 ms)
+[2026-09-11T19:35:16.966Z][INFO] config:project:get-registries --> 200 (34 ms)
+[2026-09-11T19:35:17.062Z][INFO] project:list-packages --> 200 (215 ms)
+[2026-09-11T19:35:43.784Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T23:24:39.353Z][INFO] project:list-packages <-- Request received
+[2026-09-11T19:35:44.035Z][INFO] project:list-packages --> 200 (254 ms)
+[2026-09-11T19:35:44.068Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T23:24:40.030Z][INFO] project:list-packages --> 200 (3806 ms)
-[2026-09-09T23:24:40.031Z][INFO] project:list-packages --> 200 (678 ms)
-[2026-09-09T23:24:40.033Z][INFO] project:list-packages --> 200 (3380 ms)
-[2026-09-09T23:24:40.158Z][INFO] project:list-packages <-- Request received
+[2026-09-11T19:35:44.230Z][INFO] project:list-packages --> 200 (162 ms)
+[2026-09-11T19:35:44.236Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-09-09T23:24:40.309Z][INFO] project:list-packages --> 200 (150 ms)
-[2026-09-09T23:27:21.876Z][INFO] project:list-packages <-- Request received
+[2026-09-11T19:35:44.241Z][INFO] config:project:get-registries --> 200 (6 ms)
+[2026-09-11T19:37:37.702Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T23:27:22.185Z][INFO] project:list-packages --> 200 (316 ms)
-[2026-09-09T23:27:22.236Z][INFO] project:list-packages <-- Request received
+[2026-09-11T19:37:37.976Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-09T23:27:22.420Z][INFO] config:project:get-registries <-- Request received
+[2026-09-11T19:37:38.047Z][INFO] project:list-packages --> 200 (353 ms)
+[2026-09-11T19:37:38.114Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-09-09T23:27:22.454Z][INFO] project:list-packages --> 200 (218 ms)
-[2026-09-09T23:27:22.454Z][INFO] config:project:get-registries --> 200 (34 ms)
-[2026-09-10T00:33:51.961Z][INFO] project:list-packages <-- Request received
+[2026-09-11T19:37:38.118Z][INFO] config:project:get-registries --> 200 (4 ms)
+[2026-09-11T19:37:38.186Z][INFO] project:list-packages --> 200 (210 ms)
+[2026-09-11T19:57:58.797Z][INFO] tarball:extract <-- Request received
 params: {}
-[2026-09-10T00:33:52.353Z][INFO] project:list-packages <-- Request received
+[2026-09-11T19:58:01.053Z][INFO] tarball:extract --> 200 (2264 ms)
+[2026-09-11T20:02:07.409Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-10T00:33:52.512Z][INFO] config:project:get-registries <-- Request received
+[2026-09-11T20:02:07.730Z][INFO] project:list-packages --> 200 (327 ms)
+[2026-09-11T20:02:07.819Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-10T00:33:52.516Z][INFO] project:list-packages --> 200 (579 ms)
-[2026-09-10T00:33:52.519Z][INFO] config:project:get-registries --> 200 (7 ms)
-[2026-09-10T00:33:52.630Z][INFO] project:list-packages --> 200 (277 ms)
-[2026-09-10T01:05:19.209Z][INFO] project:list-packages <-- Request received
+[2026-09-11T20:02:07.967Z][INFO] project:list-packages --> 200 (148 ms)
+[2026-09-11T20:02:07.982Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-09-10T01:05:19.650Z][INFO] project:list-packages <-- Request received
+[2026-09-11T20:02:07.986Z][INFO] config:project:get-registries --> 200 (4 ms)
+[2026-09-11T20:11:31.008Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-10T01:05:19.807Z][INFO] project:list-packages --> 200 (622 ms)
-[2026-09-10T01:05:19.819Z][INFO] config:project:get-registries <-- Request received
+[2026-09-11T20:11:31.307Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-10T01:05:19.825Z][INFO] config:project:get-registries --> 200 (6 ms)
-[2026-09-10T01:05:20.026Z][INFO] project:list-packages --> 200 (376 ms)
-[2026-09-10T01:12:20.770Z][INFO] project:list-packages <-- Request received
+[2026-09-11T20:11:31.337Z][INFO] project:list-packages --> 200 (340 ms)
+[2026-09-11T20:11:31.446Z][INFO] config:project:get-registries <-- Request received
 params: {}
-[2026-09-10T01:12:21.147Z][INFO] project:list-packages <-- Request received
+[2026-09-11T20:11:31.457Z][INFO] config:project:get-registries --> 200 (11 ms)
+[2026-09-11T20:11:31.519Z][INFO] project:list-packages --> 200 (212 ms)
+[2026-09-11T20:51:40.985Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-10T01:12:21.249Z][INFO] project:list-packages --> 200 (495 ms)
-[2026-09-10T01:12:21.309Z][INFO] config:project:get-registries <-- Request received
+[2026-09-11T20:51:41.354Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-10T01:12:21.314Z][INFO] config:project:get-registries --> 200 (5 ms)
-[2026-09-10T01:12:21.427Z][INFO] project:list-packages --> 200 (280 ms)
-[2026-09-10T01:23:46.343Z][INFO] project:list-packages <-- Request received
+[2026-09-11T20:51:43.855Z][INFO] project:list-packages --> 200 (2880 ms)
+[2026-09-11T20:51:43.856Z][INFO] project:list-packages --> 200 (2502 ms)
+[2026-09-11T20:51:45.040Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-10T01:23:47.256Z][INFO] project:list-packages <-- Request received
+[2026-09-11T20:51:45.166Z][INFO] project:list-packages --> 200 (126 ms)
+[2026-09-11T20:51:45.848Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-10T01:23:49.562Z][INFO] project:list-packages --> 200 (3243 ms)
-[2026-09-10T01:23:49.564Z][INFO] project:list-packages --> 200 (2308 ms)
-[2026-09-10T01:23:50.693Z][INFO] project:list-packages <-- Request received
+[2026-09-11T20:51:45.974Z][INFO] project:list-packages --> 200 (126 ms)
+[2026-09-11T20:56:42.283Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-10T01:23:50.852Z][INFO] project:list-packages --> 200 (159 ms)
-[2026-09-10T01:23:51.571Z][INFO] project:list-packages <-- Request received
+[2026-09-11T20:56:42.646Z][INFO] project:list-packages <-- Request received
 params: {}
-[2026-09-10T01:23:51.714Z][INFO] project:list-packages --> 200 (143 ms)
+[2026-09-11T20:56:42.824Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-09-11T20:56:42.907Z][INFO] project:list-packages --> 200 (636 ms)
+[2026-09-11T20:56:42.911Z][INFO] config:project:get-registries --> 200 (88 ms)
+[2026-09-11T20:56:42.974Z][INFO] project:list-packages --> 200 (328 ms)
+[2026-09-11T22:15:54.673Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-11T22:15:55.066Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-11T22:15:55.240Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-09-11T22:15:55.254Z][INFO] config:project:get-registries --> 200 (14 ms)
+[2026-09-11T22:15:55.464Z][INFO] project:list-packages --> 200 (398 ms)
+[2026-09-11T22:15:55.465Z][INFO] project:list-packages --> 200 (813 ms)
